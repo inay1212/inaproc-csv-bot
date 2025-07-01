@@ -1,0 +1,11 @@
+{
+  "name": "inaproc-csv-bot",
+  "version": "1.0.0",
+  "description": "Bot Playwright untuk download CSV dari Inaproc",
+  "scripts": {
+    "start": "node scripts/export-inaproc.js"
+  },
+  "dependencies": {
+    "playwright": "^1.44.0"
+  }
+}
